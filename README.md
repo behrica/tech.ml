@@ -1,11 +1,12 @@
 # tech.ml
 
-## This Library Has Been Superceded by scicloj.ml!
+## This Library Has Been Superceded by metamorph.ml and noh!
 
 
 This is great news!  The clojure community has come together and together built
 a more stable and wider ranging ml subsystem.  Please head over to 
-[scicloj.ml](https://github.com/scicloj/scicloj.ml) for the best and most 
+https://github.com/scicloj/noj
+ for the best and most 
 up-to-date machine learning toolkit available for Clojure.
 
 
